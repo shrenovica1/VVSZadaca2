@@ -1,0 +1,124 @@
+c:\users\korisnik\documents\visual studio 2015\Projects\Aplikacija\Aplikacija\bin\Debug\Aplikacija.exe.config
+c:\users\korisnik\documents\visual studio 2015\Projects\Aplikacija\Aplikacija\obj\Debug\Aplikacija.csprojResolveAssemblyReference.cache
+c:\users\korisnik\documents\visual studio 2015\Projects\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Properties.Resources.resources
+c:\users\korisnik\documents\visual studio 2015\Projects\Aplikacija\Aplikacija\obj\Debug\Aplikacija.csproj.GenerateResource.Cache
+c:\users\korisnik\documents\visual studio 2015\Projects\Aplikacija\Aplikacija\bin\Debug\Aplikacija.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\Aplikacija\Aplikacija\bin\Debug\Aplikacija.pdb
+c:\users\korisnik\documents\visual studio 2015\Projects\Aplikacija\Aplikacija\bin\Debug\Validacija.dll
+c:\users\korisnik\documents\visual studio 2015\Projects\Aplikacija\Aplikacija\bin\Debug\Validacija.pdb
+c:\users\korisnik\documents\visual studio 2015\Projects\Aplikacija\Aplikacija\obj\Debug\Aplikacija.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\Aplikacija\Aplikacija\obj\Debug\Aplikacija.pdb
+c:\users\korisnik\documents\visual studio 2015\Projects\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Form1.resources
+c:\users\korisnik\documents\visual studio 2015\Projects\Aplikacija\Aplikacija\obj\Debug\Aplikacija.FormAdmin.resources
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Aplikacija\Aplikacija\obj\Debug\Aplikacija.StudentiProzor.resources
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Aplikacija\Aplikacija\obj\Debug\Aplikacija.BrisanjePredmetacs.resources
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Aplikacija\Aplikacija\obj\Debug\Aplikacija.BrisanjeStudenta.resources
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Aplikacija\Aplikacija\obj\Debug\Aplikacija.BrisanjeUposlenika.resources
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Pretraga.resources
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Pregled.resources
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Profesori.resources
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Aplikacija\Aplikacija\obj\Debug\Aplikacija.UnesiSlikucs.resources
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Azuriraj.resources
+C:\Users\Korisnik\Desktop\SanjaHrenovicaZadaca217583\Aplikacija\Aplikacija\bin\Debug\Aplikacija.exe.config
+C:\Users\Korisnik\Desktop\SanjaHrenovicaZadaca217583\Aplikacija\Aplikacija\obj\Debug\Aplikacija.exe
+C:\Users\Korisnik\Desktop\SanjaHrenovicaZadaca217583\Aplikacija\Aplikacija\obj\Debug\Aplikacija.pdb
+C:\Users\Korisnik\Desktop\SanjaHrenovicaZadaca217583\Aplikacija\Aplikacija\bin\Debug\Aplikacija.exe
+C:\Users\Korisnik\Desktop\SanjaHrenovicaZadaca217583\Aplikacija\Aplikacija\bin\Debug\Aplikacija.pdb
+C:\Users\Korisnik\Desktop\SanjaHrenovicaZadaca217583\Aplikacija\Aplikacija\bin\Debug\Validacija.pdb
+C:\Users\Korisnik\Desktop\SanjaHrenovicaZadaca217583\Aplikacija\Aplikacija\obj\Debug\Aplikacija.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\SanjaHrenovicaZadaca217583\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Azuriraj.resources
+C:\Users\Korisnik\Desktop\SanjaHrenovicaZadaca217583\Aplikacija\Aplikacija\obj\Debug\Aplikacija.BrisanjePredmetacs.resources
+C:\Users\Korisnik\Desktop\SanjaHrenovicaZadaca217583\Aplikacija\Aplikacija\obj\Debug\Aplikacija.BrisanjeStudenta.resources
+C:\Users\Korisnik\Desktop\SanjaHrenovicaZadaca217583\Aplikacija\Aplikacija\obj\Debug\Aplikacija.BrisanjeUposlenika.resources
+C:\Users\Korisnik\Desktop\SanjaHrenovicaZadaca217583\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Form1.resources
+C:\Users\Korisnik\Desktop\SanjaHrenovicaZadaca217583\Aplikacija\Aplikacija\obj\Debug\Aplikacija.FormAdmin.resources
+C:\Users\Korisnik\Desktop\SanjaHrenovicaZadaca217583\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Pregled.resources
+C:\Users\Korisnik\Desktop\SanjaHrenovicaZadaca217583\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Pretraga.resources
+C:\Users\Korisnik\Desktop\SanjaHrenovicaZadaca217583\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Profesori.resources
+C:\Users\Korisnik\Desktop\SanjaHrenovicaZadaca217583\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\SanjaHrenovicaZadaca217583\Aplikacija\Aplikacija\obj\Debug\Aplikacija.StudentiProzor.resources
+C:\Users\Korisnik\Desktop\SanjaHrenovicaZadaca217583\Aplikacija\Aplikacija\obj\Debug\Aplikacija.UnesiSlikucs.resources
+C:\Users\Korisnik\Desktop\SanjaHrenovicaZadaca217583\Aplikacija\Aplikacija\obj\Debug\Aplikacija.csproj.GenerateResource.Cache
+C:\Users\Korisnik\Desktop\Aplikacija\Aplikacija\bin\Debug\Aplikacija.exe.config
+C:\Users\Korisnik\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.exe
+C:\Users\Korisnik\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.pdb
+C:\Users\Korisnik\Desktop\Aplikacija\Aplikacija\bin\Debug\Aplikacija.exe
+C:\Users\Korisnik\Desktop\Aplikacija\Aplikacija\bin\Debug\Aplikacija.pdb
+C:\Users\Korisnik\Desktop\Aplikacija\Aplikacija\bin\Debug\Validacija.pdb
+C:\Users\Korisnik\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Azuriraj.resources
+C:\Users\Korisnik\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.BrisanjePredmetacs.resources
+C:\Users\Korisnik\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.BrisanjeStudenta.resources
+C:\Users\Korisnik\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.BrisanjeUposlenika.resources
+C:\Users\Korisnik\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Form1.resources
+C:\Users\Korisnik\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.FormAdmin.resources
+C:\Users\Korisnik\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Pregled.resources
+C:\Users\Korisnik\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Pretraga.resources
+C:\Users\Korisnik\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Profesori.resources
+C:\Users\Korisnik\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.StudentiProzor.resources
+C:\Users\Korisnik\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.UnesiSlikucs.resources
+C:\Users\Korisnik\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.csproj.GenerateResource.Cache
+C:\Users\Korisnik\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Datoteka.resources
+C:\Users\Korisnik\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.UcitajPrikazi.resources
+C:\Users\Korisnik\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.UcitajPrikaziStudenteBin.resources
+C:\Users\Korisnik\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.XmlUpolseniIz.resources
+C:\Users\Korisnik\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.UposleniIzBincs.resources
+C:\Users\Korisnik\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.PretrzaiPoImenu.resources
+C:\Users\S\Desktop\SanjaHrenovica17583Zadaca3\Aplikacija\bin\Debug\Aplikacija.exe.config
+C:\Users\S\Desktop\SanjaHrenovica17583Zadaca3\Aplikacija\bin\Debug\Aplikacija.exe
+C:\Users\S\Desktop\SanjaHrenovica17583Zadaca3\Aplikacija\bin\Debug\Aplikacija.pdb
+C:\Users\S\Desktop\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.Azuriraj.resources
+C:\Users\S\Desktop\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.BrisanjePredmetacs.resources
+C:\Users\S\Desktop\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.BrisanjeStudenta.resources
+C:\Users\S\Desktop\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.BrisanjeUposlenika.resources
+C:\Users\S\Desktop\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.Datoteka.resources
+C:\Users\S\Desktop\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.Form1.resources
+C:\Users\S\Desktop\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.FormAdmin.resources
+C:\Users\S\Desktop\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.Pregled.resources
+C:\Users\S\Desktop\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.Pretraga.resources
+C:\Users\S\Desktop\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.PretrzaiPoImenu.resources
+C:\Users\S\Desktop\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.Profesori.resources
+C:\Users\S\Desktop\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.Properties.Resources.resources
+C:\Users\S\Desktop\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.StudentiProzor.resources
+C:\Users\S\Desktop\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.UcitajPrikazi.resources
+C:\Users\S\Desktop\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.UcitajPrikaziStudenteBin.resources
+C:\Users\S\Desktop\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.UnesiSlikucs.resources
+C:\Users\S\Desktop\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.UposleniIzBincs.resources
+C:\Users\S\Desktop\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.XmlUpolseniIz.resources
+C:\Users\S\Desktop\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.csproj.GenerateResource.Cache
+C:\Users\S\Desktop\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.csproj.CoreCompileInputs.cache
+C:\Users\S\Desktop\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.exe
+C:\Users\S\Desktop\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.pdb
+C:\Users\S\Desktop\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.csprojResolveAssemblyReference.cache
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\bin\Debug\Aplikacija.exe.config
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\bin\Debug\Aplikacija.exe
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\bin\Debug\Aplikacija.pdb
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\bin\Debug\DBManager.dll
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\bin\Debug\LibraryFakultet.dll
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\bin\Debug\DBManager.pdb
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\bin\Debug\LibraryFakultet.pdb
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.Azuriraj.resources
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.BrisanjePredmetacs.resources
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.BrisanjeStudenta.resources
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.BrisanjeUposlenika.resources
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.Datoteka.resources
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.Form1.resources
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.FormAdmin.resources
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.Pregled.resources
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.Pretraga.resources
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.PretrzaiPoImenu.resources
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.Profesori.resources
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.Properties.Resources.resources
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.StudentiProzor.resources
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.UcitajPrikazi.resources
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.UcitajPrikaziStudenteBin.resources
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.UnesiSlikucs.resources
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.UposleniIzBincs.resources
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.XmlUpolseniIz.resources
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.csproj.GenerateResource.Cache
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.csproj.CoreCompileInputs.cache
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.exe
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.pdb
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\obj\Debug\Aplikacija.csprojResolveAssemblyReference.cache

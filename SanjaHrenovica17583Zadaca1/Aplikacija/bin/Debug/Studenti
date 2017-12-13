@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bachelor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Ime>Emir</Ime>
+  <Prezime>HRen</Prezime>
+  <DatumRodjenja>1996-11-06T00:00:00</DatumRodjenja>
+  <Jmbg>0611996175021</Jmbg>
+  <DatumZavrsenjaPO>2017-01-15T00:00:00</DatumZavrsenjaPO>
+  <Index>16001</Index>
+  <Pocetnii>16002</Pocetnii>
+  <KorisnickoIme>EHRen</KorisnickoIme>
+  <Lozinka>1522a775ace254939b906658e7521ca9</Lozinka>
+</Bachelor>

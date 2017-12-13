@@ -1,0 +1,5 @@
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\FakultetDb\bin\Debug\FakultetDb.dacpac
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\FakultetDb\bin\Debug\FakultetDb.dll
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\FakultetDb\bin\Debug\FakultetDb.pdb
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\FakultetDb\obj\Debug\FakultetDb.dll
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\FakultetDb\obj\Debug\FakultetDb.pdb

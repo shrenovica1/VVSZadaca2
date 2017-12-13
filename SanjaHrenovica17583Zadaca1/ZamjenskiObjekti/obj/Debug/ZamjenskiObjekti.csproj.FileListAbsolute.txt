@@ -1,0 +1,11 @@
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\ZamjenskiObjekti\bin\Debug\ZamjenskiObjekti.dll
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\ZamjenskiObjekti\bin\Debug\ZamjenskiObjekti.pdb
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\ZamjenskiObjekti\bin\Debug\LibraryFakultet.dll
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\ZamjenskiObjekti\bin\Debug\DBManager.dll
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\ZamjenskiObjekti\bin\Debug\Validacija.dll
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\ZamjenskiObjekti\bin\Debug\LibraryFakultet.pdb
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\ZamjenskiObjekti\bin\Debug\DBManager.pdb
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\ZamjenskiObjekti\obj\Debug\ZamjenskiObjekti.csprojResolveAssemblyReference.cache
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\ZamjenskiObjekti\obj\Debug\ZamjenskiObjekti.csproj.CoreCompileInputs.cache
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\ZamjenskiObjekti\obj\Debug\ZamjenskiObjekti.dll
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\ZamjenskiObjekti\obj\Debug\ZamjenskiObjekti.pdb

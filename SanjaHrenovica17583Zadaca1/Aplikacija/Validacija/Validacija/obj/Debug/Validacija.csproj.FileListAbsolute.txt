@@ -1,0 +1,5 @@
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Zadaca\Zadaca\Validacija\Validacija\bin\Debug\Validacija.dll
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Zadaca\Zadaca\Validacija\Validacija\bin\Debug\Validacija.pdb
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Zadaca\Zadaca\Validacija\Validacija\obj\Debug\Validacija.dll
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Zadaca\Zadaca\Validacija\Validacija\obj\Debug\Validacija.pdb
+C:\Users\Korisnik\Documents\Visual Studio 2015\Projects\Zadaca\Zadaca\Validacija\Validacija\obj\Debug\Validacija.csprojResolveAssemblyReference.cache

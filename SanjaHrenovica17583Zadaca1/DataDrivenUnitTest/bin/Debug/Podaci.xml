@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Podaci>
+  <student>
+    <Ime>Sanja</Ime>
+    <Prezime>Hrenovica</Prezime>
+    <DatumRodjenja>06.11.1996</DatumRodjenja>
+    <MaticniBroj>0611996175013</MaticniBroj>
+    <DatumZavrsetka>05.05.2015</DatumZavrsetka>
+    <KorisnickoIme>shrenovica1</KorisnickoIme>
+    <Lozinka>Lozinka</Lozinka>
+  </student>
+  <student>
+    <Ime>Selma</Ime>
+    <Prezime>Hrenovica</Prezime>
+    <DatumRodjenja>06.11.1996</DatumRodjenja>
+    <MaticniBroj>0611996175013</MaticniBroj>
+    <DatumZavrsetka>05.05.2015</DatumZavrsetka>
+    <KorisnickoIme>shrenovica2</KorisnickoIme>
+    <Lozinka>Lozinka2</Lozinka>
+  </student>
+</Podaci>
+

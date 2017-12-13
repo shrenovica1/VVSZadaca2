@@ -1,0 +1,12 @@
+c:\users\s\source\repos\DBManager\DBManager\bin\Debug\DBManager.dll
+c:\users\s\source\repos\DBManager\DBManager\bin\Debug\DBManager.pdb
+c:\users\s\source\repos\DBManager\DBManager\obj\Debug\DBManager.csprojResolveAssemblyReference.cache
+c:\users\s\source\repos\DBManager\DBManager\obj\Debug\DBManager.csproj.CoreCompileInputs.cache
+c:\users\s\source\repos\DBManager\DBManager\obj\Debug\DBManager.dll
+c:\users\s\source\repos\DBManager\DBManager\obj\Debug\DBManager.pdb
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\DBManager\DBManager\bin\Debug\DBManager.dll
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\DBManager\DBManager\bin\Debug\DBManager.pdb
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\DBManager\DBManager\obj\Debug\DBManager.csprojResolveAssemblyReference.cache
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\DBManager\DBManager\obj\Debug\DBManager.csproj.CoreCompileInputs.cache
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\DBManager\DBManager\obj\Debug\DBManager.dll
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\Aplikacija\DBManager\DBManager\obj\Debug\DBManager.pdb

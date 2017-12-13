@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Bachelor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Ime>Sanja</Ime>
+  <Prezime>Hrenovica</Prezime>
+  <DatumRodjenja>1996-11-06T00:00:00</DatumRodjenja>
+  <Jmbg>0611996175013</Jmbg>
+  <DatumZavrsenjaPO>2017-01-15T00:00:00</DatumZavrsenjaPO>
+  <Index>16000</Index>
+  <Pocetnii>16001</Pocetnii>
+  <KorisnickoIme>SHrenovica</KorisnickoIme>
+  <Lozinka>a735490001f96fcad6f0ca0c8c0f5947</Lozinka>
+</Bachelor>

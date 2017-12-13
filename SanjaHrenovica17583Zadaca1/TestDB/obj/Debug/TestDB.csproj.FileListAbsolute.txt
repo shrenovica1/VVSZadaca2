@@ -1,0 +1,14 @@
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\TestDB\bin\Debug\TestDB.dll.config
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\TestDB\bin\Debug\TestDB.dll
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\TestDB\bin\Debug\TestDB.pdb
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\TestDB\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\TestDB\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\TestDB\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\TestDB\obj\Debug\TestDB.csprojResolveAssemblyReference.cache
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\TestDB\obj\Debug\TestDB.csproj.CoreCompileInputs.cache
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\TestDB\obj\Debug\TestDB.dll
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\TestDB\obj\Debug\TestDB.pdb
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\TestDB\obj\Debug\TestDB.SqlServerUnitTest1.resources
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\TestDB\obj\Debug\TestDB.csproj.GenerateResource.Cache
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\TestDB\obj\Debug\TestDB.SqlServerUnitTest2.resources
+C:\Users\S\Documents\SanjaHrenovica17583Zadaca3\TestDB\obj\Debug\TestDB.SqlServerUnitTest3.resources
